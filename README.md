@@ -1,2 +1,2 @@
 # inverted-pendulum
-Here is a code that implements a nonlinear controller for controlling an inverted pendulum
+Here is a code that implements a nonlinear controller for controlling an inverted pendulum. The system uses Euler's Rigid Body Motion to represent the dynamics. The file with the controller title has the controller implemented whereas the other file is just a pendulum under the effect of gravity (it takes the external torque as an input). There is a file which encompasses this motion as an animation and another one that plots the angular velocity (the function for plotting is a separate file).
